@@ -1,5 +1,6 @@
 # Password-Management
 a pretty cool and basic using python to create a password manager with some features.
+(creates an encrypted json file for the service name, username, email, password)
 
 # How to use
 1. download the code as a zip file to your pc
