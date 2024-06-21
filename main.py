@@ -5,7 +5,7 @@ import random
 from cryptography.fernet import Fernet
 
 # Directory where the key and password files will be stored
-data_directory = "PassManage"
+data_directory = "" # u can just choose the folder of where main.py is located on ur pc
 
 # Ensure the directory exists
 if not os.path.exists(data_directory):
